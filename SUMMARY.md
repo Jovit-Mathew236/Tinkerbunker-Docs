@@ -1,16 +1,23 @@
-# Table of contents
+# Summary
 
-* [Welcome](README.md)
+## 👩‍🎓 Student Guide
+* [Getting Started](student/getting-started.md)
+* [Enrolling in Courses](student/enrolling-in-courses.md)
+* [Submitting Assignments](student/submitting-assignments.md)
+* [Viewing Grades](student/viewing-grades.md)
 
-## Getting Started
+## 👩‍🏫 Teacher Guide
+* [Getting Started](teacher/getting-started.md)
+* [Creating a Course](teacher/creating-a-course.md)
+* [Managing Students](teacher/managing-students.md)
+* [Grading & Feedback](teacher/grading.md)
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+## 🛠️ Admin Guide
+* [Getting Started](admin/getting-started.md)
+* [User Management](admin/user-management.md)
+* [Reports & Analytics](admin/reports.md)
+* [System Settings](admin/settings.md)
 
-## Basics
-
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [Integrations](basics/integrations.md)
+## 📌 Common
+* [FAQ](common/faq.md)
+* [Troubleshooting](common/troubleshooting.md)
