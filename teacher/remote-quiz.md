@@ -12,7 +12,7 @@ TinkerBunker supports **live interactive quizzes** conducted in real time using 
 | **Hardware Required** | Physical remote devices (student handhelds) and a USB receiver connected to the teacher's computer. |
 | **Use Case** | In-class quizzes, quick assessments, revision games, interactive lectures. |
 
-![Remote Quiz Session](.gitbook/assets/remote-quiz-session.png)
+![Remote Quiz Session](../.gitbook/assets/remote-quiz-session.png)
 
 ---
 
@@ -66,7 +66,7 @@ Ensure all remotes have working batteries before starting the session. A non-res
 {% endtab %}
 
 {% tab title="Screenshot" %}
-![Remote Quiz Setup](.gitbook/assets/remote-quiz-setup.png)
+![Remote Quiz Setup](../.gitbook/assets/remote-quiz-setup.png)
 {% endtab %}
 {% endtabs %}
 
@@ -112,7 +112,7 @@ During the quiz, the teacher's screen shows a real-time dashboard:
 | **Live Leaderboard** | Running scoreboard ranking students by total points. |
 | **Student List** | Indicates which students have responded and which have not. |
 
-![Real-Time Response Dashboard](.gitbook/assets/remote-quiz-live.png)
+![Real-Time Response Dashboard](../.gitbook/assets/remote-quiz-live.png)
 
 ---
 

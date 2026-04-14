@@ -61,7 +61,7 @@ Once an assignment is live, you can track student progress from the assignment d
 | **Submitted** | The student has completed and submitted the test. |
 | **Evaluated** | You have reviewed and graded the submission. |
 
-![Assignment Tracking](.gitbook/assets/assignment-tracking.png)
+![Assignment Tracking](../.gitbook/assets/assignment-tracking.png)
 
 {% hint style="warning" %}
 If a test has a time limit, students who start the test but do not submit within the time will have their test auto-submitted.

@@ -10,7 +10,7 @@ If you have forgotten your password, TinkerBunker provides an OTP-based reset fl
 
 1. Go to `/forgotpassword` or click the **Forgot Password?** link on the login page.
 
-![Forgot Password Link](.gitbook/assets/forgot-password-link.png)
+![Forgot Password Link](../.gitbook/assets/forgot-password-link.png)
 
 ### Step 2: Enter Your Email
 
@@ -37,7 +37,7 @@ If you do not receive the OTP email, check your spam or junk folder. Ensure the 
 2. Enter the **6-digit OTP** in the verification field.
 3. Click **Verify OTP**.
 
-![OTP Entry Screen](.gitbook/assets/otp-entry-screen.png)
+![OTP Entry Screen](../.gitbook/assets/otp-entry-screen.png)
 
 ### Step 5: Set a New Password
 

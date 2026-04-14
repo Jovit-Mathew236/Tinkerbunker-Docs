@@ -52,7 +52,7 @@ TinkerBunker remembers where you left off. When you re-open a course, you are ta
 {% endtab %}
 {% endtabs %}
 
-![Course Content View](.gitbook/assets/course-content-view.png)
+![Course Content View](../.gitbook/assets/course-content-view.png)
 
 ---
 

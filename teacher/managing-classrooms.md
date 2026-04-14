@@ -10,7 +10,7 @@ Classrooms are the organizational backbone of TinkerBunker for teachers. You can
 2. You will see a list of all classrooms you have created.
 3. Click on any classroom to manage it, or click **Create Classroom** to set up a new one.
 
-![Classroom Management](.gitbook/assets/teacher-classroom-list.png)
+![Classroom Management](../.gitbook/assets/teacher-classroom-list.png)
 
 ---
 
@@ -28,7 +28,7 @@ Classrooms are the organizational backbone of TinkerBunker for teachers. You can
 {% endtab %}
 
 {% tab title="Screenshot" %}
-![Create Classroom Form](.gitbook/assets/create-classroom.png)
+![Create Classroom Form](../.gitbook/assets/create-classroom.png)
 {% endtab %}
 {% endtabs %}
 

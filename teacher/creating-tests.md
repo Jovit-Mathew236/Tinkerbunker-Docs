@@ -10,7 +10,7 @@ TinkerBunker provides a powerful test creation tool that lets teachers build sta
 2. Click the **Create Test** button.
 3. The test creation form opens.
 
-![Create Test](.gitbook/assets/create-test.png)
+![Create Test](../.gitbook/assets/create-test.png)
 
 ---
 

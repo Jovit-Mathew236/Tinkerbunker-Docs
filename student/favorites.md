@@ -21,7 +21,7 @@ TinkerBunker lets you **favorite** courses so you can quickly find and access th
 {% endtab %}
 {% endtabs %}
 
-![Favorite a Course](.gitbook/assets/favorite-course.png)
+![Favorite a Course](../.gitbook/assets/favorite-course.png)
 
 ---
 

@@ -11,7 +11,7 @@ As a teacher on TinkerBunker, you have access to the full course catalog. You ca
 3. Use the search bar to find courses by title or keyword.
 4. Apply filters to narrow results by category, subject, or other criteria.
 
-![Course Catalog - Teacher View](.gitbook/assets/teacher-course-catalog.png)
+![Course Catalog - Teacher View](../.gitbook/assets/teacher-course-catalog.png)
 
 ---
 

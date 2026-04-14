@@ -31,7 +31,7 @@ You do not need to create a new account to join an institute. The institute role
    - **Teacher** -- Join as an educator.
 6. Click **Request to Join**.
 
-![Join Institute Form](.gitbook/assets/join-institute-form.png)
+![Join Institute Form](../.gitbook/assets/join-institute-form.png)
 
 ---
 
@@ -63,7 +63,7 @@ Once the institute administrator approves your request:
 3. The role appears in your [role switcher](role-switching.md) in the profile menu.
 4. Switch to the new role to access the institute dashboard, classrooms, and courses.
 
-![Approval Notification](.gitbook/assets/approval-notification.png)
+![Approval Notification](../.gitbook/assets/approval-notification.png)
 
 ---
 

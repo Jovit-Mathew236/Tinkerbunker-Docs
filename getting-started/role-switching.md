@@ -26,7 +26,7 @@ Your data and progress in each role are maintained independently. Switching role
 4. Click on the role you want to switch to.
 5. The page reloads and you are taken to the dashboard of the selected role.
 
-![Role Switcher in Profile Menu](.gitbook/assets/role-switcher-menu.png)
+![Role Switcher in Profile Menu](../.gitbook/assets/role-switcher-menu.png)
 
 {% hint style="info" %}
 Only roles that have been assigned to your account appear in the role switcher. If you expect to see a role that is not listed, it may be pending approval (for institute roles) or not yet assigned.

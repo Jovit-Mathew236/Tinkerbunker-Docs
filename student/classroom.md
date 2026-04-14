@@ -9,7 +9,7 @@ The **Classroom** section on TinkerBunker connects you with your teacher and fel
 1. Click **Classroom** in the top navigation bar.
 2. Your assigned classroom is displayed with all relevant details.
 
-![Student Classroom View](.gitbook/assets/student-classroom.png)
+![Student Classroom View](../.gitbook/assets/student-classroom.png)
 
 {% hint style="info" %}
 A student is assigned to a classroom by their teacher. You cannot join or leave a classroom on your own. If you do not see a classroom, contact your teacher or administrator.

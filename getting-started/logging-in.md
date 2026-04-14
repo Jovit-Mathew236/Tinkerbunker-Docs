@@ -13,7 +13,7 @@ Once your account is created and verified, you can log in to TinkerBunker using 
 3. Click **Log In**.
 4. On success, you are redirected to your role-specific dashboard.
 
-![Login Page](.gitbook/assets/login-page.png)
+![Login Page](../.gitbook/assets/login-page.png)
 
 {% hint style="info" %}
 If your account has multiple roles, you will land on the dashboard of your **most recently active role**. You can switch roles at any time from the profile menu. See [Switching Roles](role-switching.md) for details.
@@ -27,7 +27,7 @@ If your account has multiple roles, you will land on the dashboard of your **mos
 4. If your Google email matches an existing TinkerBunker account, you are logged in directly.
 5. If no account exists for that email, a new account is created automatically and you are redirected to the dashboard.
 
-![Google Login Button](.gitbook/assets/google-login-button.png)
+![Google Login Button](../.gitbook/assets/google-login-button.png)
 
 {% hint style="warning" %}
 Google OAuth only works if your Google account email matches the email you used during signup. If you signed up with a different email, use the email-and-password method instead.
