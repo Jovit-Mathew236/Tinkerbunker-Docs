@@ -1,29 +1,27 @@
-# 🏆 Certificates
-
-Earn a certificate when you complete a course.
+# Certificates
 
 ---
 
-## Flow
-
-```mermaid
-flowchart LR
-    A[✅ Complete Course] --> B[🏆 Certificate Generated]
-    B --> C[📥 Download PDF]
-    C --> D[🔗 Share or Verify]
-```
+Students earn a certificate when they complete all chapters and pages in a course.
 
 ---
 
-## Key Points
+## How It Works
 
-- Certificates are generated **automatically** on course completion
-- Each certificate has a **unique UUID**
-- Download as **PDF** anytime from your dashboard
-- Anyone can **verify** a certificate using the UUID
+1. Complete every page in every chapter of a course.
+2. A certificate is generated automatically.
+3. Download it as a PDF from your dashboard.
 
 ---
+
+## Public Verification
+
+Every certificate has a unique link that anyone can use to verify it — no login required.
+
+Visit the verification page and enter the certificate code or scan the QR code.
+
+-> [Verify a certificate](../public/verify-certificate.md)
 
 {% hint style="info" %}
-Partners can customize certificate designs with white labeling.
+Certificates are only generated for fully completed courses.
 {% endhint %}

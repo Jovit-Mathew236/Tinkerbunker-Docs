@@ -1,31 +1,24 @@
-# 🏠 Your Dashboard
+# Your Dashboard
 
-Your command center for managing schools, teams, and licenses.
+The partner dashboard gives you an overview of the schools and operations you manage.
 
----
-
-## 📌 Navigation
-
-| Menu Item | What It Does |
-| --- | --- |
-| Schools | Invite and manage institutes |
-| Sub-Partners | Manage your partner network |
-| Team | Add or remove team members |
-| Seats | Track and assign licenses |
-| Billing | View invoices and payments |
-| Coupons | Create and manage discount codes |
+<figure><img src="../.gitbook/assets/partner-dashboard-overview.png" alt="Partner Dashboard"><figcaption></figcaption></figure>
 
 ---
 
-## 📊 Summary Cards
+## Navigation Bar
 
-At a glance, you'll see:
+| Tab | What It Does |
+|---|---|
+| **Courses** | Browse available courses |
+| **Schools** | Manage institutes under your account |
+| **Teams** | Manage team members |
+| **Sub-Partners** | Manage regional sub-partners |
 
-- **Total Schools** under your network
-- **Active Seats** currently in use
-- **Pending Invoices** that need attention
-- **Team Members** in your organization
+---
 
-{% hint style="info" %}
-Cards refresh in real time. Pull to see the latest.
-{% endhint %}
+## Quick Actions
+
+- Click **Schools** to invite or manage an institute.
+- Click **Teams** to add team members with specific permissions.
+- Check your billing status in your **Profile**.

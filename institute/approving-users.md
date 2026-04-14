@@ -1,34 +1,30 @@
-# ✅ Approve New Users
-
-Review and respond to incoming user requests.
+# Approve New Users
 
 ---
 
-## 🔄 How It Works
-
-```mermaid
-flowchart LR
-    A[User sends request] --> B[Request appears in Approvals]
-    B --> C{Review details}
-    C -->|Approve| D[User gets access]
-    C -->|Reject| E[User is notified]
-```
+When students or teachers sign up and select your institute, their request comes to you for approval.
 
 ---
 
-## 📝 Steps
+## How It Works
 
-1. Go to **Approvals** from the sidebar.
-2. Review the user's name, role, and details.
-3. Click **Approve** or **Reject**.
+1. A user signs up and selects your school.
+2. They verify their email.
+3. Their request appears in your **pending requests** queue.
+4. You review and either **approve** or **reject** the request.
+
+<figure><img src="../.gitbook/assets/institute-pending-requests.png" alt="Pending Requests"><figcaption></figcaption></figure>
 
 ---
 
-## 📌 Quick Tips
+## Request Status
 
-- Approved users can immediately access the institute.
-- Rejected users receive a notification with the reason.
+| Status | Meaning |
+|---|---|
+| **Pending** | Waiting for your review |
+| **Approved** | The user now has access to your institute |
+| **Rejected** | The user was denied access |
 
 {% hint style="info" %}
-You need the `approval_operation` flag to manage approvals.
+Rejected users can reapply or request to join a different institute.
 {% endhint %}

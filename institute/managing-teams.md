@@ -1,37 +1,25 @@
-# 👥 Manage Your Team
-
-Add members and control what they can do.
+# Manage Your Team
 
 ---
 
-## ➕ Add a Team Member
+## Add a Team Member
 
-1. Go to **Team** from the sidebar.
+1. Go to **Teams** in the navigation bar.
 2. Click **Add Member**.
-3. Enter their name, email, and role.
-4. Set their access flags.
-5. Click **Save**.
+3. Enter their name and email.
+4. Select the permissions they should have.
 
 ---
 
-## 🔐 Access Flags
+## Permissions
 
-| Flag | What It Controls |
-| --- | --- |
-| `classroom_operation` | Create, edit, and delete classrooms |
-| `student_operation` | Manage student records |
-| `team_operation` | Add or remove team members |
-| `approval_operation` | Approve or reject user requests |
-| `stats_view` | View institute statistics |
-| `device_operation` | Manage remote devices |
+| Permission | What It Allows |
+|---|---|
+| **Classroom Operation** | Create and manage classrooms |
+| **Course Assign Operation** | Assign courses to classrooms |
 
----
+<figure><img src="../.gitbook/assets/institute-add-team-member.png" alt="Add Team Member"><figcaption></figcaption></figure>
 
-## ✏️ Edit or Remove
-
-- Click a member to update their flags or details.
-- Use **Remove** to revoke their access entirely.
-
-{% hint style="warning" %}
-Removing a member does not delete their account — just their institute access.
+{% hint style="info" %}
+Team members inherit a limited version of your institute role based on their permissions.
 {% endhint %}

@@ -1,15 +1,17 @@
-# 📚 Manage Courses
-
-View and track courses assigned to your institute.
+# Manage Courses
 
 ---
 
-## 📖 What You Can Do
+View all courses assigned to your institute under **Courses** in the navigation bar.
 
-- See all courses assigned by your partner.
-- Check course details like name, subject, and grade.
-- Assign courses to classrooms.
+| Column | Description |
+|---|---|
+| **Course Name** | Title of the course |
+| **Status** | Active, inactive, or pending |
+| **Enrolled** | Number of students enrolled |
+
+<figure><img src="../.gitbook/assets/institute-course-list.png" alt="Institute Courses"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Courses are created by partners. You can only view and assign them.
+Courses are assigned to your institute by your partner. Contact them to add or remove courses.
 {% endhint %}

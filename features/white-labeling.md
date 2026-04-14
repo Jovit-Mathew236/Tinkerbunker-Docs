@@ -1,26 +1,24 @@
-# 🎨 White Labeling
-
-Custom branding for your learning platform.
+# White Labeling
 
 ---
 
-## What Is It?
-
-- Partners can replace the TinkerBunker brand with **their own**
-- Custom **logo**, **colors**, and **domain name**
-- Students see the partner's brand, not TinkerBunker
+Partners can customize the look of TinkerBunker for their schools.
 
 ---
 
-## Who Gets It?
+## What Gets Customized
 
-| Role | Access |
-|------|--------|
-| **Partner** | ✅ Full white-label customization |
-| All other roles | ➖ Not available |
+| Element | Description |
+|---|---|
+| **Login Page Logo** | Your brand logo replaces the default on the login screen |
+| **Domain Detection** | When users visit via your custom domain, your branding loads automatically |
 
 ---
+
+## How It Works
+
+TinkerBunker detects the partner based on the domain or URL used to access the platform. The login page automatically displays the partner's logo and branding.
 
 {% hint style="info" %}
-White labeling also applies to certificates and emails.
+White labeling is available to partner accounts only.
 {% endhint %}

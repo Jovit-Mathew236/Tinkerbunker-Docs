@@ -1,27 +1,21 @@
-# 📝 Enroll as a Public User
-
-Sign up and start learning.
+# Enroll as a Public User
 
 ---
 
-## Free vs Paid Courses
-
-| Type | What You Need |
-|------|---------------|
-| **Free** | Just sign up — instant access |
-| **Paid** | Sign up → Pay via Razorpay → Access granted |
+Public users can browse courses freely. To enroll, you need to create an account.
 
 ---
 
-## How to Enroll
+## Steps
 
-1. Click **Enroll** on any course page
-2. Create an account (or log in)
-3. For paid courses, complete the payment
-4. Start learning immediately
+1. Find a course you're interested in.
+2. Click **Enroll**.
+3. If you're not logged in, you'll be prompted to sign up or log in.
+4. For free courses, enrollment is instant.
+5. For paid courses, complete payment via Razorpay.
 
----
+-> [Create an account](../getting-started/signing-up.md)
 
 {% hint style="info" %}
-One account lets you enroll in unlimited courses.
+After enrolling, the course appears in your dashboard under My Courses.
 {% endhint %}

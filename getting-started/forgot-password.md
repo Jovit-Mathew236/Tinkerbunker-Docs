@@ -1,49 +1,26 @@
 # Forgot Password
 
-> Reset your password in 4 steps. No login needed.
+---
+
+## How to Reset
+
+1. Click **Forgot Password** on the login page.
+2. Enter your registered email address.
+3. Check your inbox for a one-time code (OTP).
+4. Enter the OTP on the verification screen.
+5. Set a new password.
+6. Log in with your new password.
 
 ---
 
-## How It Works
+## Troubleshooting
 
-```mermaid
-flowchart TD
-    A[Click 'Forgot Password'] --> B[Enter your email]
-    B --> C[Get a 6-digit code via email]
-    C --> D[Enter the code]
-    D --> E[Set a new password]
-    E --> F[Log in 🎉]
-```
-
----
-
-## 4 Steps to Reset
-
-1. 🔗 Click **Forgot Password?** on the login page
-2. 📧 Enter your **email** and hit **Send OTP**
-3. 🔢 Open the email, grab the **6-digit code**, enter it
-4. 🔑 Type your **new password**, confirm it, hit **Reset**
-
-That's it. Now [log in](logging-in.md) with your new password.
-
-{% hint style="warning" %}
-The code expires in 10 minutes. If it doesn't arrive, check spam or resend.
-{% endhint %}
-
----
-
-## 🔧 Trouble?
-
-| Problem | Fix |
+| Problem | Solution |
 |---|---|
-| No email received | Check spam. Verify the email address. Wait and resend |
-| Code expired | Click **Resend OTP** to get a new one |
-| Code not working | Make sure you're using the latest code |
-| Account not found | You may have signed up with Google — try that instead |
+| Didn't receive the code | Check spam folder, or request a new one |
+| Code expired | Request a fresh OTP |
+| Still can't log in | Contact your institute admin or support |
 
----
-
-## Next Steps
-
-→ [Log in to your account](logging-in.md)
-→ [Back to overview](overview.md)
+{% hint style="info" %}
+OTP codes expire after a few minutes. Use them promptly.
+{% endhint %}

@@ -1,44 +1,25 @@
-# 📊 Track Your Progress
-
-Click **Stats** in the nav bar to see how you're doing.
-
-<figure><img src="../.gitbook/assets/student-stats.png" alt="Student Stats Dashboard"><figcaption></figcaption></figure>
+# Track Your Progress
 
 ---
 
-## 📈 What's Tracked
+## Your Stats Dashboard
 
-| Stat | What It Shows |
-| -------------------- | -------------------------------------------------- |
-| **Progress** | % of courses and chapters you've completed. |
-| **Proficiency** | How well you perform on tests (accuracy, scores). |
-| **Concept Clarity** | Per-topic understanding based on test results. |
-| **Growth Charts** | Visual graphs of your improvement over time. |
-| **Leaderboard** | Your rank vs other students in your class. |
+| Metric | What It Shows |
+|---|---|
+| **Progress** | How much of your enrolled courses you have completed |
+| **Proficiency** | How well you performed on tests and quizzes |
+| **Concept Clarity** | Strength in specific topics based on your answers |
+| **Growth** | How your performance has changed over time |
+| **Leaderboard** | Your ranking compared to other students |
+
+<figure><img src="../.gitbook/assets/student-stats.png" alt="Student Stats"><figcaption></figcaption></figure>
 
 ---
 
-## 🎯 Concept Clarity Scores
+## How to Access
 
-| Score | Meaning |
-| --------- | ----------------------- |
-| 80 – 100 | Strong understanding. |
-| 60 – 79 | Good, minor gaps. |
-| 40 – 59 | Needs review. |
-| 0 – 39 | Revisit the material. |
+Click **Stats** in the navigation bar. All metrics update automatically as you complete courses and tests.
 
 {% hint style="info" %}
-Concept scores update only after you take tests — not just by reading pages.
-{% endhint %}
-
----
-
-## 🏆 Leaderboard
-
-- Ranked by overall performance across courses and tests.
-- May be scoped to your classroom or the whole platform.
-- Updates periodically as everyone progresses.
-
-{% hint style="info" %}
-Use the leaderboard as motivation — but focus on your own growth!
+Leaderboard rankings are calculated across your institute.
 {% endhint %}

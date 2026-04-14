@@ -1,41 +1,39 @@
-# 📝 Test System
+# Test System
 
-Assessments to measure learning progress.
+---
+
+TinkerBunker supports several types of tests, each designed for different situations.
 
 ---
 
 ## Test Types
 
-| Type | Description |
-|------|-------------|
-| **Quiz** | Multiple-choice, auto-graded |
-| **Assignment** | File upload, manually graded |
-| **Live Remote Quiz** | Real-time quiz with a timer |
+| Type | Description | Who Creates It |
+|---|---|---|
+| **Course Test** | Embedded at the end of a chapter inside a course | Content Creator |
+| **Teacher Test** | Standalone test created by a teacher | Teacher |
+| **Practice Test** | Self-paced, can be taken multiple times | Teacher |
+| **Assigned Test** | Given to specific students with a deadline | Teacher |
+| **Remote Quiz** | Live interactive session using physical remotes | Teacher |
 
 ---
 
-{% tabs %}
-{% tab title="Quiz" %}
-- Added inside a course module
-- Auto-graded on submission
-- Instant score display
-{% endtab %}
+## Question Types
 
-{% tab title="Assignment" %}
-- Students upload files as answers
-- Teacher reviews and grades manually
-- Supports PDF, images, and documents
-{% endtab %}
-
-{% tab title="Live Remote Quiz" %}
-- Teacher starts a live session
-- Students join with a code
-- Timer-based, results shown instantly
-{% endtab %}
-{% endtabs %}
+| Type | How It Works |
+|---|---|
+| **Multiple Choice** | Pick one or more correct answers |
+| **True / False** | Two options |
+| **Fill in the Blank** | Student types the answer |
+| **Subjective** | Open-ended, graded manually by the teacher |
 
 ---
+
+## Grading
+
+- Multiple choice, true/false, and fill-in-the-blank questions are graded automatically.
+- Subjective questions require manual grading by the teacher.
 
 {% hint style="info" %}
-Tests can be required before unlocking the next module.
+Students can review their answers after the teacher publishes the results.
 {% endhint %}

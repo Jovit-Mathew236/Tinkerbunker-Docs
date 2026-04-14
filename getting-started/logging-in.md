@@ -1,57 +1,36 @@
 # Log In
 
-> Get back into your account in seconds.
+---
+
+## Email and Password
+
+1. Go to the TinkerBunker login page.
+2. Enter your email and password.
+3. Click **Sign In**.
+
+You'll be redirected to your dashboard.
+
+<figure><img src="../.gitbook/assets/login-page.png" alt="Login Page"><figcaption></figcaption></figure>
 
 ---
 
-## How It Works
+## Google Login
 
-```mermaid
-flowchart TD
-    A[Open TinkerBunker] --> B{How do you want to log in?}
-    B -->|Email| C[Enter email + password]
-    C --> D[Hit Log In]
-    D --> E[Dashboard 🎉]
-    B -->|Google| F[Click 'Log in with Google']
-    F --> G[Pick your Google account]
-    G --> E
-```
+1. Click **Sign in with Google**.
+2. Select your Google account.
+
+You'll be redirected to your dashboard automatically.
 
 ---
 
-## 📧 Email + Password
+## Troubleshooting
 
-1. Enter your **email** and **password**
-2. Click **Log In**
-3. You land on your dashboard
-
----
-
-## 🔵 Google Login
-
-1. Click **Log in with Google**
-2. Pick your Google account — done!
+| Problem | Solution |
+|---|---|
+| Wrong password | Use [Forgot Password](forgot-password.md) to reset it |
+| Account not found | Make sure you've signed up first |
+| Redirected back to login | Your session may have expired — log in again |
 
 {% hint style="info" %}
-If you have multiple roles, you'll land on the one you used last. Switch anytime from the profile menu.
+If you have multiple roles, you'll land on the dashboard for your most recent active role.
 {% endhint %}
-
----
-
-## 🔧 Trouble Logging In?
-
-| Problem | Fix |
-|---|---|
-| Wrong password | Check for typos. Passwords are case-sensitive. [Reset it](forgot-password.md) |
-| Account not found | Make sure you're using the right email |
-| Email not verified | Check your inbox for the verification email |
-| Pending approval | Ask your school admin to approve your account |
-| Google not working | Enable third-party cookies or try another browser |
-
----
-
-## Next Steps
-
-→ [Forgot your password?](forgot-password.md)
-→ [Switch between roles](role-switching.md)
-→ [Join a school](joining-an-institute.md)

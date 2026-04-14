@@ -1,31 +1,34 @@
-# ✅ Approval System
-
-New accounts need approval before full access.
+# Approval System
 
 ---
 
-## Flow
-
-```mermaid
-flowchart LR
-    A[📝 Sign Up] --> B[📧 Verify Email]
-    B --> C[⏳ Wait for Approval]
-    C --> D{Decision}
-    D -->|Approved| E[🟢 Full Access]
-    D -->|Rejected| F[🔴 Access Denied]
-```
+When a student or teacher signs up and selects an institute, their account enters a pending state until the institute admin approves them.
 
 ---
 
-## Key Points
+## How It Works
 
-- Email verification is **required** after sign-up
-- An admin or partner reviews the account
-- Approved users get full role-based access
-- Rejected users are notified via email
+1. User signs up and selects an institute.
+2. User verifies their email.
+3. The request appears in the institute admin's pending queue.
+4. The admin reviews and approves or rejects the request.
 
 ---
 
-{% hint style="warning" %}
-Approval times depend on the institute or partner.
+## Status
+
+| Status | What It Means |
+|---|---|
+| **Pending** | Waiting for institute admin to review |
+| **Approved** | Full access to institute resources |
+| **Rejected** | Access denied. User can reapply or join a different institute. |
+
+---
+
+## While Pending
+
+Users with a pending request can still log in, but they are limited to their dashboard only. They cannot access classrooms, courses, or tests until approved.
+
+{% hint style="info" %}
+Rejected users can reapply or request to join a different institute at any time.
 {% endhint %}

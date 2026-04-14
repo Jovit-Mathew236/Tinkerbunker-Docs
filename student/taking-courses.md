@@ -1,48 +1,29 @@
-# 📖 Learn — Courses & Chapters
+# Learn — Courses & Chapters
 
 ---
 
-## 🗂️ How Courses Are Organized
+## How Courses Are Structured
 
-Every course follows this simple structure:
+Each course is organized into chapters, and each chapter contains pages.
 
-```mermaid
-flowchart LR
-    A[Course] --> B[Chapters] --> C[Pages]
-```
+| Level | What It Is |
+|---|---|
+| **Course** | The full learning program |
+| **Chapter** | A section within the course |
+| **Page** | Individual lesson content within a chapter |
 
-| Level | Think of it as… |
-| ----------- | ---------------------------------------- |
-| **Course** | The whole book. |
-| **Chapter** | A section or module. |
-| **Page** | One lesson — text, images, or videos. |
+Some chapters may include an embedded test at the end.
 
 ---
 
-## 🚀 Start Learning
+## Your Progress
 
-1. Go to **My Courses** on your dashboard.
-2. Click a course to open it.
-3. Pick a chapter, then click a page to begin.
-4. Use **Next / Previous** buttons to move between pages.
+- A progress bar shows how much of the course you have completed.
+- Each page you finish is automatically tracked.
+- Pick up where you left off from your dashboard.
+
+<figure><img src="../.gitbook/assets/course-chapter-view.png" alt="Course Content"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-TinkerBunker remembers where you left off — just click the course to resume.
-{% endhint %}
-
-<figure><img src="../.gitbook/assets/course-content-view.png" alt="Course Content View"><figcaption></figcaption></figure>
-
----
-
-## 📊 Progress Tracking
-
-| Indicator | What It Tells You |
-| -------------------- | ---------------------------------------- |
-| **Progress Bar** | Overall % of pages completed. |
-| **Chapter ✓** | All pages in that chapter are done. |
-
-- All chapters done → course complete → earn a certificate (if enabled).
-
-{% hint style="info" %}
-Completed courses show a **Completed** badge. You can revisit them anytime.
+You can revisit any completed page at any time.
 {% endhint %}

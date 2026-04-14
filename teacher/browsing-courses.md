@@ -1,38 +1,15 @@
-# 📚 Browse Courses
-
-Find courses, preview them, and link them to your classrooms.
+# Browse Courses
 
 ---
 
-## 🔍 Find a Course
+Click **Courses** in the navigation bar to open the course catalog.
 
-1. Click **Courses** in the nav bar
-2. Search by title or keyword
-3. Filter by category, visibility, or price
+- Browse published courses available on the platform.
+- Click any course to preview its chapters and content.
+- Use the heart icon to save a course to your favorites.
 
-<figure><img src="../.gitbook/assets/teacher-course-catalog.png" alt="Course Catalog - Teacher View"><figcaption></figcaption></figure>
-
----
-
-## 👁️ View Course Details
-
-Click any course card to see:
-
-| Field | Info |
-| ----------- | ---------------------------------- |
-| **Title** | Course name |
-| **Chapters** | Chapter list with page counts |
-| **Duration** | Estimated completion time |
-| **Visibility** | Public or Private |
-| **Price** | Free or paid (INR) |
+<figure><img src="../.gitbook/assets/teacher-course-catalog.png" alt="Course Catalog"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Preview full course content before linking it to a classroom.
+Teachers can browse courses but cannot create them. Course creation is managed by the content team.
 {% endhint %}
-
----
-
-## ❤️ Favorite or Link
-
-- Tap the **heart icon** to save a course to [Favorites](favorites.md)
-- To link it to a classroom, see [Manage Classrooms](managing-classrooms.md)

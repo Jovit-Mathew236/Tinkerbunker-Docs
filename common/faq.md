@@ -1,73 +1,56 @@
-# ❓ Frequently Asked Questions
+# Frequently Asked Questions
 
 ---
 
-## Do I need an account to browse courses?
+## Account & Access
 
-No. Anyone can browse courses without signing up.
+**How do I create an account?**
+Go to the signup page and choose Personal or Institute signup. See [Create Your Account](../getting-started/signing-up.md).
 
----
+**I signed up but can't access anything.**
+If you joined an institute, your admin needs to approve you first. Check your request status on your dashboard.
 
-## How do I enroll in a course?
+**Can I have multiple roles?**
+Yes. A single account can hold Student, Teacher, Guardian, and other roles at the same time. Switch between them from your profile menu.
 
-Click **Enroll** on the course page, sign up (or log in), and pay if it's a paid course.
-
----
-
-## Is my payment secure?
-
-Yes. All payments go through **Razorpay**, a trusted payment gateway.
+**How do I join a school after signing up?**
+Go to your Profile, click Add Institute Profile, and select the school you want to join.
 
 ---
 
-## How do I get my certificate?
+## Courses & Learning
 
-Complete all course modules. Your certificate is generated automatically.
+**How do I enroll in a course?**
+Go to Courses, find the one you want, and click Enroll. Free courses are instant. Paid courses require payment.
 
----
+**Can I access courses without an account?**
+You can browse the catalog, but you need an account to enroll.
 
-## Can I verify a certificate?
+**How are courses structured?**
+Each course has chapters, and each chapter has pages. Some chapters include a test at the end.
 
-Yes. Go to the **Verify Certificate** page and enter the UUID printed on it.
-
----
-
-## What happens after I sign up?
-
-You verify your email, then wait for approval from your institute or partner.
+**What happens when I finish a course?**
+You earn a certificate automatically. Download it as a PDF from your dashboard.
 
 ---
 
-## How long does approval take?
+## Tests
 
-It depends on your institute or partner. Usually within 1–2 business days.
+**What types of tests are there?**
+Assigned tests (from your teacher), practice tests (self-paced), and remote quizzes (live in classroom).
 
----
+**Can I retake a test?**
+Practice tests can be taken multiple times. Assigned tests usually can't — check with your teacher.
 
-## Can I enroll in multiple courses?
-
-Yes. One account, unlimited courses.
-
----
-
-## What is white labeling?
-
-Partners can brand the platform with their own logo, colors, and domain.
+**How is grading done?**
+Multiple choice and true/false are graded automatically. Subjective answers are graded by your teacher.
 
 ---
 
-## Who can see my progress?
+## Billing & Payments
 
-Your teacher, institute, guardian (if assigned), and partner can view your progress.
+**What payment methods are accepted?**
+UPI, credit/debit cards, net banking, and wallets via Razorpay.
 
----
-
-## What payment methods are supported?
-
-UPI, debit/credit cards, and net banking via Razorpay.
-
----
-
-## How do I reset my password?
-
-Click **Forgot Password** on the login page and follow the email instructions.
+**My payment failed. What should I do?**
+Wait a few minutes and check your bank. Don't retry immediately. Refunds process in 5-7 business days.

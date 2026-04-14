@@ -1,23 +1,23 @@
-# 📱 Remote Devices
-
-Manage devices used by your institute remotely.
+# Remote Devices
 
 ---
 
-## 🤔 What Are Remote Devices?
-
-Devices (tablets, laptops) registered to your institute that you can monitor and control from the dashboard.
+Remote devices are physical receiver units used for live quiz sessions in classrooms.
 
 ---
 
-## ⚙️ Setup
+## Setup
 
-1. Go to **Devices** from the sidebar.
-2. Click **Add Device**.
-3. Enter the device name and identifier.
-4. Link it to a classroom (optional).
-5. Click **Save**.
+1. Connect the receiver to a computer via USB.
+2. Distribute handheld remotes to students.
+3. The teacher starts a remote quiz session from the platform.
+
+---
+
+## Managing Devices
+
+View all registered devices under your institute settings. Each device is tied to a classroom.
 
 {% hint style="info" %}
-You need the `device_operation` flag to manage devices.
+Contact your partner if you need additional remote devices.
 {% endhint %}

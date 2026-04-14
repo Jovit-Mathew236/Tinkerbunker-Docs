@@ -1,18 +1,27 @@
-# ✅ Verify a Certificate
-
-Check if a TinkerBunker certificate is genuine.
+# Verify a Certificate
 
 ---
 
-## Steps
-
-1. Go to the **Verify Certificate** page
-2. Enter the **Certificate UUID** (printed on the certificate)
-3. Click **Verify**
-4. See the result — valid or not found
+Every TinkerBunker certificate has a unique verification code. Anyone can verify it — no login required.
 
 ---
 
-{% hint style="success" %}
-Valid certificates show the student name, course, and issue date.
+## How to Verify
+
+1. Go to the certificate verification page.
+2. Enter the certificate's unique code or scan its QR code.
+3. The system displays the certificate details if valid.
+
+---
+
+## What You'll See
+
+| Field | Description |
+|---|---|
+| **Student Name** | Who earned the certificate |
+| **Course Name** | Which course was completed |
+| **Date** | When the certificate was issued |
+
+{% hint style="info" %}
+If the code is invalid, the certificate may not exist or the code may be incorrect.
 {% endhint %}

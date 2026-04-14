@@ -1,44 +1,36 @@
-# 📝 Take Tests
+# Take Tests
 
 ---
 
-## 🧪 Test Types
+## Types of Tests
 
-| Type | What It Is | Where to Find It |
-| -------------- | ---------------------------------------- | -------------------------------- |
-| **Assigned** | Your teacher assigns it. Has a deadline. | Dashboard → Upcoming / Classroom |
-| **Practice** | Self-paced revision. Retake anytime. | Inside courses |
-| **View-Only** | Review your past answers. No retakes. | Test history |
-
-{% hint style="info" %}
-Assigned tests may be timed — complete them before the due date!
-{% endhint %}
+| Type | Description |
+|---|---|
+| **Assigned Test** | Given to you by your teacher. Has a deadline. |
+| **Practice Test** | Self-paced. Take it as many times as you want. |
+| **View-Only Test** | Read-only. You can see the questions but not submit answers. |
 
 ---
 
-## ✅ How to Take a Test
+## How to Take a Test
 
-1. **Find it** — Check **Upcoming** on your dashboard or open a course.
-2. **Start it** — Click the test, then hit **Start Test**.
-3. **Answer** — Pick your answers. Use **Flag** to mark tricky ones for later.
-4. **Submit** — Hit **Submit**, confirm, and you're done.
+1. Open the test from your dashboard or classroom.
+2. Read each question carefully.
+3. Select or type your answer.
+4. Click **Submit** when you are done.
 
 <figure><img src="../.gitbook/assets/test-screen.png" alt="Test Screen"><figcaption></figcaption></figure>
 
-{% hint style="warning" %}
-Timed tests auto-submit when the clock hits zero. Keep an eye on the timer!
-{% endhint %}
-
 ---
 
-## 📊 After You Submit
+## Good to Know
 
-| Test Type | What Happens |
-| -------------- | -------------------------------------------------- |
-| **Practice** | Results + correct answers shown right away. |
-| **Assigned** | Results shown after teacher review (or instantly). |
-| **View-Only** | Read-only view of your answers. |
+| Detail | Info |
+|---|---|
+| **Timer** | Some tests are timed. The countdown shows at the top. |
+| **Navigation** | Jump between questions using the sidebar. |
+| **Auto-save** | Your answers are saved as you go. |
 
 {% hint style="info" %}
-Once submitted, answers can't be changed — double-check before confirming.
+Once submitted, you cannot change your answers.
 {% endhint %}

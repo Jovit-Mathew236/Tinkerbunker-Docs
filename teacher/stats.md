@@ -1,32 +1,17 @@
-# 📊 Your Stats
-
-See how your students and classrooms are performing — all in one place.
-
-Go to **Stats** in the nav bar.
-
-<figure><img src="../.gitbook/assets/teacher-stats.png" alt="Teacher Stats Dashboard"><figcaption></figcaption></figure>
+# Your Stats
 
 ---
 
-## 📈 What You'll See
+Click **Stats** in the navigation bar to view performance data.
 
-| Metric | What it tells you |
-| ----------------------- | ------------------------------------------ |
-| **Classroom Performance** | Avg. scores and completion rates per class |
-| **Test Analytics** | Per-test scores, difficulty, question breakdown |
-| **Student Engagement** | Active students, logins, time spent |
-| **Assignment Overview** | Submissions, evaluations, avg. scores |
-| **Comparative Metrics** | Cross-classroom and cross-test comparisons |
+| Metric | What It Shows |
+|---|---|
+| **Classroom Performance** | Average scores across your classrooms |
+| **Test Analytics** | Question-level breakdown of student answers |
+| **Student Engagement** | Completion rates and participation |
 
----
-
-## 📤 Export
-
-| Format | Available for |
-| -------- | ---------------------------------------- |
-| **CSV** | Test results, scores, engagement data |
-| **PDF** | Classroom performance summary reports |
+<figure><img src="../.gitbook/assets/teacher-stats.png" alt="Teacher Stats"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Click **Export** on any analytics page to download.
+Stats update automatically after each test submission.
 {% endhint %}

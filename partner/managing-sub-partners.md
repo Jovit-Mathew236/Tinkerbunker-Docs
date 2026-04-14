@@ -1,23 +1,20 @@
-# 🤝 Sub-Partners
-
-Expand your reach by adding partners under you.
+# Sub-Partners
 
 ---
 
-## 🤔 What Are Sub-Partners?
-
-Partners who operate under your account. They manage their own schools but roll up to your network.
+Sub-partners are regional distributors who operate under your partner account.
 
 ---
 
-## ➕ Invite a Sub-Partner
+## Invite a Sub-Partner
 
-1. Go to **Sub-Partners** from the sidebar.
+1. Go to **Sub-Partners** in the navigation bar.
 2. Click **Invite**.
-3. Enter their name and email.
-4. Set their seat allocation.
-5. Click **Send Invite**.
+3. Enter the sub-partner's name and email.
+4. Send the invitation.
+
+<figure><img src="../.gitbook/assets/partner-sub-partner-list.png" alt="Sub-Partners"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Sub-partners manage their own schools but share your seat pool.
+Sub-partners manage their own set of schools but report under your account.
 {% endhint %}

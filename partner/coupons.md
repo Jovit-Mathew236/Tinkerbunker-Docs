@@ -1,29 +1,27 @@
-# 🏷️ Coupons
-
-Create discount codes for your schools.
+# Coupons
 
 ---
 
-## ➕ Create a Coupon
+Create discount codes for schools under your partner account.
 
-1. Go to **Coupons** from the sidebar.
+---
+
+## Create a Coupon
+
+1. Go to **Coupons** in your dashboard.
 2. Click **Create Coupon**.
-3. Set the code, discount type, and value.
-4. Choose an expiry date (optional).
-5. Click **Save**.
+3. Set the discount amount or percentage.
+4. Configure usage limits and expiry date.
+5. Save the coupon.
+
+<figure><img src="../.gitbook/assets/partner-create-coupon.png" alt="Create Coupon"><figcaption></figcaption></figure>
 
 ---
 
-## 📋 Manage Coupons
+## Manage Coupons
 
-| Field | Description |
-| --- | --- |
-| Code | The discount code schools will use |
-| Type | Percentage or fixed amount |
-| Value | Discount amount |
-| Expiry | When the coupon stops working |
-| Status | Active or expired |
+View all active and expired coupons in the coupon list. You can edit or deactivate any coupon at any time.
 
 {% hint style="info" %}
-Expired coupons stay in your list for reference but can't be used.
+Coupons are applied during course enrollment by the student.
 {% endhint %}

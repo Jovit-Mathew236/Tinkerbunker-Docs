@@ -1,36 +1,23 @@
-# 🏫 Manage Classrooms
-
-Create spaces where students learn together.
+# Manage Classrooms
 
 ---
 
-## ➕ Create a Classroom
+## Create a Classroom
 
-1. Go to **Classrooms** from the sidebar.
-2. Click **Add Classroom**.
-3. Fill in the name, grade, and section.
-4. Assign a course to the classroom.
-5. Hit **Save**.
+1. Go to **Classrooms** in the navigation bar.
+2. Click **Create Classroom**.
+3. Enter a name and assign a teacher.
+4. Add students to the classroom.
+5. Link courses for the class.
 
----
-
-## 📋 What's Inside a Classroom
-
-| Field | Description |
-| --- | --- |
-| Name | Classroom label (e.g., "Grade 5 - A") |
-| Grade | Academic grade level |
-| Section | Section identifier |
-| Course | The course students will follow |
-| Students | Enrolled student list |
+<figure><img src="../.gitbook/assets/institute-create-classroom.png" alt="Create Classroom"><figcaption></figcaption></figure>
 
 ---
 
-## ✏️ Edit or Delete
+## Edit a Classroom
 
-- Click any classroom to open its details.
-- Use **Edit** to update info or **Delete** to remove it.
+Open any classroom and click **Edit** to update its teacher, students, or linked courses.
 
-{% hint style="warning" %}
-Deleting a classroom removes all student links to it.
+{% hint style="info" %}
+Teachers can also create classrooms if they have the right permissions.
 {% endhint %}

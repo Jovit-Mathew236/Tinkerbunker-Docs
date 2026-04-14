@@ -1,18 +1,18 @@
-# 🔍 Browse Courses
-
-No account needed — just open and explore.
+# Browse Courses
 
 ---
 
-## How to Find Courses
+You don't need an account to browse courses on TinkerBunker.
 
-- Visit the **Courses** page from the homepage
-- Use **Search** to find by name or topic
-- Filter by **Category**, **Language**, or **Price**
-- Click any course card to see full details
+Visit the platform and explore the public course catalog. You can view course titles, descriptions, and chapter outlines.
 
 ---
 
-{% hint style="info" %}
-You can browse for free — sign up only when you're ready to enroll.
-{% endhint %}
+## To Enroll
+
+You'll need to create an account to enroll in a course.
+
+- Free courses — enroll instantly after signing up.
+- Paid courses — complete payment via Razorpay.
+
+-> [Create an account](../getting-started/signing-up.md)

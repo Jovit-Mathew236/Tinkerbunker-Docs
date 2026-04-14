@@ -1,26 +1,32 @@
-# 💳 Billing & Payments
-
-How money moves in TinkerBunker.
+# Billing & Payments
 
 ---
 
-## Payment Types
+## For Students
 
-| Who | What | Method |
-|-----|------|--------|
-| **Student** | Pays for a course | Razorpay (UPI, card, net banking) |
-| **Partner** | Billed for platform usage | Invoice-based billing |
+Students pay for paid courses at the time of enrollment using Razorpay.
 
----
-
-## Student Payment Flow
-
-1. Student clicks **Enroll** on a paid course
-2. Redirected to **Razorpay** checkout
-3. Payment confirmed → access granted instantly
+| Payment Method | Supported |
+|---|---|
+| UPI | Yes |
+| Credit / Debit Card | Yes |
+| Net Banking | Yes |
+| Wallets | Yes |
 
 ---
+
+## For Partners
+
+Partners receive invoices for the schools they manage. Billing status is shown as a banner on the dashboard.
+
+| Status | Meaning |
+|---|---|
+| **Current** | All paid up |
+| **Invoiced** | A new invoice is ready |
+| **Overdue** | Payment is past due |
+
+Payment history is available under **Profile** in the **Payments** tab.
 
 {% hint style="info" %}
-Free courses skip the payment step entirely.
+For billing questions, contact your sales representative.
 {% endhint %}

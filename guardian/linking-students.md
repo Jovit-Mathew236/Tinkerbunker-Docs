@@ -1,28 +1,21 @@
-# 🔗 Link Your Child
-
-Connect your child's account to start tracking their progress.
+# Link Your Child
 
 ---
 
-## 🔄 How It Works
+## How to Link
 
-```mermaid
-flowchart LR
-    A[Submit link request] --> B[Institute reviews it]
-    B --> C{Decision}
-    C -->|Approved| D[Child appears in your dashboard]
-    C -->|Rejected| E[You're notified with a reason]
-```
+1. Log in to your guardian account.
+2. Go to **My Students** and click **Link Student**.
+3. Enter your child's registered email or student ID.
+4. A linkage request is sent to your child's account.
+5. Once they accept, their profile appears in your dashboard.
 
 ---
 
-## 📝 Steps
+## Approval
 
-1. Go to **Link Student** from the sidebar.
-2. Enter your child's name and student ID.
-3. Submit the request.
-4. Wait for the institute to approve.
+Your child must accept the linkage request before you can view their data. They'll see a notification in their account.
 
 {% hint style="info" %}
-You'll get a notification once the request is approved or rejected.
+You can link multiple students to a single guardian account.
 {% endhint %}

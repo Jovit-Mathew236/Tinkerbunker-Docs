@@ -1,24 +1,27 @@
-# 🎟️ Seats & Licenses
-
-Seats control how many students can access your courses.
+# Seats & Licenses
 
 ---
 
-## 🤔 What Are Seats?
-
-One seat = one student license. Schools need seats to enroll students.
+Seats determine how many students an institute can enroll under your partner account.
 
 ---
 
-## 📋 Manage Seats
+## How It Works
 
-| Action | How |
-| --- | --- |
-| View total seats | Check the **Seats** page |
-| Assign to school | Open school > **Seats** tab > allocate |
-| Reclaim seats | Open school > **Seats** tab > reduce |
-| Track usage | See active vs available on the dashboard |
+| Concept | Description |
+|---|---|
+| **Seat** | One license for one student |
+| **Allocation** | Number of seats assigned to a school |
+| **Usage** | How many seats are currently in use |
+
+---
+
+## Manage Seats
+
+1. Go to **Schools** and select an institute.
+2. Open the **Seats** section.
+3. Adjust the allocation as needed.
 
 {% hint style="info" %}
-Unused seats can be reassigned to other schools anytime.
+If a school runs out of seats, new students cannot enroll until more are allocated.
 {% endhint %}

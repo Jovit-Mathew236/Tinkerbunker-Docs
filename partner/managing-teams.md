@@ -1,37 +1,28 @@
-# 👥 Manage Your Team
-
-Add members and control what they can do.
+# Manage Your Team
 
 ---
 
-## ➕ Add a Team Member
+## Add a Team Member
 
-1. Go to **Team** from the sidebar.
+1. Go to **Teams** in the navigation bar.
 2. Click **Add Member**.
-3. Enter their name, email, and role.
-4. Set their access flags.
-5. Click **Save**.
+3. Enter their name and email.
+4. Select their permissions.
 
 ---
 
-## 🔐 Access Flags
+## Permissions
 
-| Flag | What It Controls |
-| --- | --- |
-| `school_operation` | Invite and manage schools |
-| `team_operation` | Add or remove team members |
-| `seat_operation` | Manage seat allocation |
-| `billing_view` | View invoices and payments |
-| `coupon_operation` | Create and manage coupons |
-| `sub_partner_operation` | Manage sub-partners |
+| Permission | What It Allows |
+|---|---|
+| **School Operation** | Manage institutes |
+| **Sub-Partner Operation** | Manage sub-partners |
+| **Seat Operation** | Manage seat allocations |
+| **Coupon Operation** | Create and manage coupons |
+| **Price Operation** | Set pricing for schools |
 
----
+<figure><img src="../.gitbook/assets/partner-add-team-member.png" alt="Add Team Member"><figcaption></figcaption></figure>
 
-## ✏️ Edit or Remove
-
-- Click a member to update their flags or details.
-- Use **Remove** to revoke their access entirely.
-
-{% hint style="warning" %}
-Removing a member does not delete their account — just their partner access.
+{% hint style="info" %}
+Team members get a scoped version of your partner role based on the permissions you assign.
 {% endhint %}

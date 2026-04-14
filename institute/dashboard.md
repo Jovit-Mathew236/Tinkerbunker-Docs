@@ -1,31 +1,24 @@
-# 🏠 Your Dashboard
+# Your Dashboard
 
-Your home base. Everything starts here.
+The institute dashboard gives you an overview of your school's activity.
 
----
-
-## 📌 Navigation
-
-| Menu Item | What It Does |
-| --- | --- |
-| Classrooms | View and manage all classrooms |
-| Courses | See assigned courses |
-| Team | Add or remove team members |
-| Approvals | Review pending user requests |
-| Stats | Track institute performance |
-| Devices | Manage remote devices |
+<figure><img src="../.gitbook/assets/institute-dashboard-overview.png" alt="Institute Dashboard"><figcaption></figcaption></figure>
 
 ---
 
-## 📊 Summary Cards
+## Navigation Bar
 
-At a glance, you'll see:
+| Tab | What It Does |
+|---|---|
+| **Classrooms** | Create and manage classrooms |
+| **Courses** | View courses assigned to your institute |
+| **Teams** | Manage team members and their permissions |
+| **Stats** | View institute-wide performance data |
 
-- **Total Students** enrolled right now
-- **Active Classrooms** currently running
-- **Pending Approvals** waiting for your review
-- **Team Members** in your institute
+---
 
-{% hint style="info" %}
-Cards update in real time. Just refresh to see the latest numbers.
-{% endhint %}
+## Quick Actions
+
+- Click **Classrooms** to set up a new class.
+- Click **Teams** to invite team members.
+- Check **Stats** for performance reports.

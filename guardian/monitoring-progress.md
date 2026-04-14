@@ -1,18 +1,16 @@
-# 📊 Monitor Progress
-
-See how your child is doing — at a glance.
+# Monitor Progress
 
 ---
 
-## 👀 What You Can See
+Once linked, you can view your child's learning activity from your dashboard.
 
-| View | Description |
-| --- | --- |
-| Course Progress | Completion percentage per course |
-| Activity Log | Recent actions and submissions |
-| Grades | Scores and evaluations |
-| Attendance | Daily attendance records |
+| What You Can See | Description |
+|---|---|
+| **Enrolled Courses** | All courses your child is taking |
+| **Completion Status** | Progress percentage per course |
+| **Test Scores** | Results from assigned and practice tests |
+| **Classroom Info** | The classroom and teacher your child is in |
 
 {% hint style="info" %}
-Data updates as teachers record progress. Check back regularly.
+Data updates automatically as your child completes coursework.
 {% endhint %}

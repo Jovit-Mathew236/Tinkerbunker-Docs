@@ -1,25 +1,23 @@
-# 💳 Billing & Payments
-
-Track invoices and payment history in one place.
+# Billing & Payments
 
 ---
 
-## 📄 Invoice Status
+Your billing status appears as a banner at the top of your dashboard.
 
-| Status | Meaning |
-| --- | --- |
-| **Paid** | Payment received |
-| **Pending** | Awaiting payment |
-| **Overdue** | Past the due date |
+| Status | What It Means |
+|---|---|
+| **Current** | All invoices are paid |
+| **Invoiced** | A new invoice has been generated |
+| **Overdue** | Payment is past due |
+
+<figure><img src="../.gitbook/assets/partner-billing-banner.png" alt="Billing Banner"><figcaption></figcaption></figure>
 
 ---
 
-## 📝 What You Can Do
+## View Payment History
 
-- View all invoices from the **Billing** page.
-- Download invoices as PDF.
-- Check payment history and transaction details.
+Go to your **Profile** and open the **Payments** tab to see all past invoices and transactions.
 
-{% hint style="warning" %}
-Overdue invoices may result in seat suspension. Pay on time.
+{% hint style="info" %}
+Contact your sales representative if you have billing questions.
 {% endhint %}

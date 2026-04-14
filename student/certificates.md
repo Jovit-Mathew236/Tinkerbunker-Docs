@@ -1,47 +1,25 @@
-# 🏆 Earn Certificates
-
-Complete a course. Get a certificate. Share it with the world.
+# Earn Certificates
 
 ---
 
-## 📋 How It Works
+## How It Works
 
-```mermaid
-flowchart LR
-    A[Complete All Pages] --> B[Certificate Auto-Generated]
-    B --> C[Download PDF]
-    C --> D[Share Verification Link]
-```
-
-1. **Finish every page** in a course that has certificates enabled.
-2. Your certificate is **generated automatically** — no extra steps.
-3. **Download the PDF** from the completed course or your certificates section.
-
-{% hint style="info" %}
-Not all courses issue certificates — check the course detail page before enrolling.
-{% endhint %}
+1. Complete all chapters and pages in a course.
+2. A certificate is generated automatically.
+3. Download it as a PDF from your dashboard.
 
 <figure><img src="../.gitbook/assets/certificate-download.png" alt="Certificate Download"><figcaption></figcaption></figure>
 
 ---
 
-## 🔗 Public Verification
+## Public Verification
 
-Every certificate has a unique link:
+Every certificate has a unique link. Anyone can verify it — no login needed.
 
-```
-https://tinkerbunker.com/verify/{UUID}
-```
+Share the link or the certificate's QR code to prove completion.
 
-Anyone can visit that link to confirm your certificate is real.
+→ [How certificate verification works](../features/certificates.md)
 
 {% hint style="info" %}
-Add your verification link to your resume or LinkedIn profile!
+Certificates are only generated for fully completed courses.
 {% endhint %}
-
----
-
-## ❓ Good to Know
-
-- Certificates **never expire** and are always verifiable.
-- Make sure your **profile name** is correct before finishing the course.

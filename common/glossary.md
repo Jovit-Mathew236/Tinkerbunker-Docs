@@ -1,34 +1,26 @@
-# 📖 Glossary
-
-Key terms used across TinkerBunker.
+# Glossary
 
 ---
 
-| Term | Meaning |
-|------|---------|
-| **Course** | A structured learning program with modules and tests |
-| **Module** | A section inside a course (videos, readings, quizzes) |
-| **Enrollment** | Signing up for a course to access its content |
-| **Certificate** | A document proving you completed a course |
-| **UUID** | A unique code printed on each certificate for verification |
-| **Quiz** | A multiple-choice test, auto-graded instantly |
-| **Assignment** | A file-upload task, graded manually by a teacher |
-| **Live Remote Quiz** | A real-time quiz session with a timer and leaderboard |
-| **Student** | A learner enrolled in courses |
-| **Teacher** | Creates and manages courses and grades tests |
-| **Institute** | An organization that manages teachers and students |
-| **Guardian** | A parent or mentor who tracks a student's progress |
-| **Partner** | An organization that runs its own branded platform |
-| **Public User** | A visitor who browses without an account |
-| **White Labeling** | Custom branding (logo, colors, domain) for partners |
-| **Razorpay** | The payment gateway used for course purchases |
-| **Approval** | Admin review required before a new account is activated |
-| **Dashboard** | Your personal home page after logging in |
-| **Leaderboard** | A ranking of quiz scores in a live session |
-| **Draft** | A course that is still being created, not yet submitted |
-
----
-
-{% hint style="info" %}
-Terms are explained in context throughout the docs.
-{% endhint %}
+| Term | Definition |
+|---|---|
+| **Course** | A complete learning program made up of chapters and pages |
+| **Chapter** | A section within a course, containing one or more pages |
+| **Page** | A single lesson or content unit inside a chapter |
+| **Test** | A set of questions used to assess understanding |
+| **Assignment** | A test assigned to specific students with a deadline |
+| **Practice Test** | A self-paced test that can be taken multiple times |
+| **Remote Quiz** | A live quiz session using physical remote devices |
+| **Classroom** | A group of students and a teacher, linked to specific courses |
+| **Institute** | A school or organization registered on TinkerBunker |
+| **Partner** | An organization that manages multiple institutes |
+| **Sub-Partner** | A regional distributor operating under a partner |
+| **Guardian** | A parent or mentor linked to a student's account |
+| **Certificate** | A document issued when a student completes a course |
+| **Seat** | A license that allows one student to access the platform |
+| **Coupon** | A discount code applied during course enrollment |
+| **Approval** | The process by which an institute admin accepts or rejects new users |
+| **Role** | A user's access level — Student, Teacher, Institute, Guardian, Partner, or Public |
+| **Team Member** | A user with scoped permissions acting on behalf of a partner or institute |
+| **White Labeling** | Custom branding on the login page for partner accounts |
+| **Razorpay** | The payment gateway used for paid course enrollments |
