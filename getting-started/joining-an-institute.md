@@ -1,105 +1,61 @@
-# Joining an Institute
+# Join an Institute
 
-If you already have a TinkerBunker account, you can request to join an institute as a **Student** or **Teacher**. This adds a new role to your existing account without affecting your current roles or data.
+> Already have an account? You can join a school without making a new one.
 
 ---
 
-## Who Can Join an Institute?
+## How It Works
 
-Any authenticated user can request to join an institute. Common scenarios include:
+```mermaid
+flowchart TD
+    A[Log in to TinkerBunker] --> B[Search for your school]
+    B --> C[Pick your role: Student or Teacher]
+    C --> D[Click 'Request to Join']
+    D --> E{School admin reviews}
+    E -->|Approved ✅| F[Role is active — switch to it!]
+    E -->|Rejected ❌| G[You're notified — try again or contact admin]
+```
 
-- A personal-signup student who wants to join their school.
-- A teacher who wants to join an additional institution.
-- An existing user who switches schools or organizations.
+---
+
+## 4 Steps to Join
+
+1. 🔑 **Log in** to your account
+2. 🔍 Go to your profile and **search for the school**
+3. 🎭 Pick your role — **Student** or **Teacher**
+4. 📤 Click **Request to Join** and wait
 
 {% hint style="info" %}
-You do not need to create a new account to join an institute. The institute role is added to your existing account, and you can [switch between roles](role-switching.md) at any time.
+You don't need a new account. The school role gets added to your existing one.
 {% endhint %}
 
 ---
 
-## How to Request to Join
+## What Happens Next?
 
-### Steps
-
-1. Log in to your TinkerBunker account.
-2. Navigate to your **Profile** settings or use the **Join Institute** option in the navigation menu.
-3. Search for the institute you want to join by name.
-4. Select the institute from the search results.
-5. Choose your role within the institute:
-   - **Student** -- Join as a learner.
-   - **Teacher** -- Join as an educator.
-6. Click **Request to Join**.
-
-<figure><img src="../.gitbook/assets/join-institute-form.png" alt="Join Institute Form"><figcaption></figcaption></figure>
-
----
-
-## Approval Process
-
-Institute signups and join requests are **not automatic**. The institute administrator must review and approve each request.
-
-### What Happens After You Submit
-
-| Stage | Status | What You See |
-| --- | --- | --- |
-| Request submitted | **Pending** | A "Pending Approval" badge on the institute role in your profile |
-| Admin reviews | **Pending** | No change -- waiting for admin action |
-| Admin approves | **Approved** | The role becomes active; you can switch to it and access institute resources |
-| Admin rejects | **Rejected** | The role is removed from your pending list; you are notified |
+| Stage | What You See |
+|---|---|
+| ⏳ Pending | "Pending Approval" badge on the role |
+| ✅ Approved | Role becomes active — find it in your [role switcher](role-switching.md) |
+| ❌ Rejected | You're notified. Contact the school admin if needed |
 
 {% hint style="warning" %}
-While your request is pending, you cannot access any classrooms, courses, or resources belonging to that institute. All existing roles and data on your account remain unaffected.
+While pending, you can't access that school's classrooms or courses. Your other roles aren't affected.
 {% endhint %}
 
 ---
 
-## After Approval
+## Can I Join Multiple Schools?
 
-Once the institute administrator approves your request:
+Yes! No limit. Each school role is independent.
 
-1. The institute role (Student or Teacher) is **activated** on your account.
-2. You receive a **notification** confirming the approval.
-3. The role appears in your [role switcher](role-switching.md) in the profile menu.
-4. Switch to the new role to access the institute dashboard, classrooms, and courses.
-
-<figure><img src="../.gitbook/assets/approval-notification.png" alt="Approval Notification"><figcaption></figcaption></figure>
-
----
-
-## Joining Multiple Institutes
-
-TinkerBunker supports joining **multiple institutes**. Each institute role is independent:
-
-- You can be a Student at Institute A and a Teacher at Institute B.
-- Each institute role appears separately in the role switcher.
-- Classrooms, courses, and stats are scoped to the specific institute.
-
-{% hint style="info" %}
-There is no limit to the number of institutes you can join. Each join request goes through the approval process of the respective institute.
-{% endhint %}
-
----
-
-## For Institute Administrators
-
-If you are an institute admin looking to manage join requests, see [Approving Users](../institute/approving-users.md) for details on reviewing, approving, and rejecting incoming requests.
-
----
-
-## Troubleshooting
-
-| Issue | Solution |
-| --- | --- |
-| Cannot find the institute | Verify the institute name. The institute must be registered on TinkerBunker. Contact the institute admin to confirm. |
-| Request stuck in pending | Contact the institute administrator directly to review your request. |
-| Rejected without reason | Reach out to the institute admin for clarification. You can submit a new request after resolving any issues. |
-| Role not appearing after approval | Log out and log back in, or refresh the page. Check the role switcher in the profile menu. |
+- Student at School A + Teacher at School B = totally fine
+- Each shows up separately in your role switcher
 
 ---
 
 ## Next Steps
 
-- [Switch to your new role](role-switching.md)
-- [Student Dashboard](../student/dashboard.md)
-- [Teacher Dashboard](../teacher/dashboard.md)
+→ [Switch to your new role](role-switching.md)
+→ [Student Dashboard](../student/dashboard.md)
+→ [Teacher Dashboard](../teacher/dashboard.md)
