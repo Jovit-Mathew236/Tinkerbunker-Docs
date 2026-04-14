@@ -47,7 +47,7 @@ No manual action is required to trigger certificate generation.
 {% endtab %}
 
 {% tab title="Screenshot" %}
-![Certificate Download](../.gitbook/assets/certificate-download.png)
+<figure><img src="../.gitbook/assets/certificate-download.png" alt="Certificate Download"><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

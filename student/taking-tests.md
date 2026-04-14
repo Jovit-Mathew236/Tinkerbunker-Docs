@@ -51,7 +51,7 @@ Alternatively, you can find assigned tests under your **Classroom** page.
 
 Once you start a test, you enter the dedicated **Test Screen** — a focused, distraction-free interface.
 
-![Test Screen](../.gitbook/assets/test-screen.png)
+<figure><img src="../.gitbook/assets/test-screen.png" alt="Test Screen"><figcaption></figcaption></figure>
 
 ### Test Screen Layout
 

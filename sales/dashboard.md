@@ -16,7 +16,7 @@ When you log in as a **Sales** user, your dashboard displays:
 - **Partners List** — Partners assigned to you
 - **Quick Navigation** — Access to Courses, Partners, and Teams
 
-![Sales Dashboard Overview](../.gitbook/assets/sales-dashboard-overview.png)
+<figure><img src="../.gitbook/assets/sales-dashboard-overview.png" alt="Sales Dashboard Overview"><figcaption></figcaption></figure>
 
 ---
 

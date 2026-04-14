@@ -8,7 +8,7 @@ Public users can browse and discover courses on TinkerBunker without creating an
 
 The public course catalog displays all courses marked as `is_public: true` and with `APPROVED` status.
 
-![Public Course Catalog](../.gitbook/assets/public-course-catalog.png)
+<figure><img src="../.gitbook/assets/public-course-catalog.png" alt="Public Course Catalog"><figcaption></figcaption></figure>
 
 ---
 

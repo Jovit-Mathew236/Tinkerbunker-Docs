@@ -9,7 +9,7 @@ The **Stats** section gives you a detailed view of your learning performance on 
 1. Click **Stats** in the top navigation bar.
 2. Your personalized statistics dashboard loads with multiple data sections.
 
-![Student Stats Dashboard](../.gitbook/assets/student-stats.png)
+<figure><img src="../.gitbook/assets/student-stats.png" alt="Student Stats Dashboard"><figcaption></figcaption></figure>
 
 ---
 
@@ -96,7 +96,7 @@ Growth charts provide a visual timeline of your performance.
 {% endtab %}
 {% endtabs %}
 
-![Growth Chart Example](../.gitbook/assets/student-growth-chart.png)
+<figure><img src="../.gitbook/assets/student-growth-chart.png" alt="Growth Chart Example"><figcaption></figcaption></figure>
 
 ---
 

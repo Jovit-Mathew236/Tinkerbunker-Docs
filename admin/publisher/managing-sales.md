@@ -64,7 +64,7 @@ Displays pending invitations that haven't been accepted yet:
 Fill Form → Review (Table Modal) → Send → Success Modal
 ```
 
-![Invite Sales Flow](../../.gitbook/assets/invite-sales-flow.png)
+<figure><img src="../../.gitbook/assets/invite-sales-flow.png" alt="Invite Sales Flow"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **Duplicate Detection:** The system checks for existing users with the same email. If a duplicate is found, an alert is displayed and the invitation is not sent.

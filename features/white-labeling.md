@@ -97,7 +97,7 @@ The login page dynamically shows partner branding:
 - **Company Name** — Shown below or alongside the logo
 - **Default** — If no partner matches the domain, TinkerBunker branding is shown
 
-![Partner Login Page](../.gitbook/assets/partner-login-page.png)
+<figure><img src="../.gitbook/assets/partner-login-page.png" alt="Partner Login Page"><figcaption></figcaption></figure>
 
 ### Application Header
 

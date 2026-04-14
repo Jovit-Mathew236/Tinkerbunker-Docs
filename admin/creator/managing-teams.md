@@ -43,7 +43,7 @@ Unlike Sales or Partner team members, Admin Creator team members have only one a
 
 The team member receives an invitation to join and set up their account.
 
-![Add Creator Team Member](../../.gitbook/assets/add-team-member-creator.png)
+<figure><img src="../../.gitbook/assets/add-team-member-creator.png" alt="Add Creator Team Member"><figcaption></figcaption></figure>
 
 ---
 

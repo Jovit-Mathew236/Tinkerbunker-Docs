@@ -53,7 +53,7 @@ Before running a quiz, remotes must be registered in the system:
 5. The remote's MAC address is captured and registered
 6. Assign each remote as `student` or `teacher` type
 
-![Add Remotes Modal](../.gitbook/assets/add-remotes-modal.png)
+<figure><img src="../.gitbook/assets/add-remotes-modal.png" alt="Add Remotes Modal"><figcaption></figcaption></figure>
 
 ### Step 2: Map Students to Remotes
 

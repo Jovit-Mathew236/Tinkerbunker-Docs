@@ -86,7 +86,7 @@ Course tests are embedded directly within courses and are created by **Admin Cre
 | `default_max_attempts` | Maximum times a student can attempt the test |
 | `is_locked`          | Lock the test after max attempts are reached  |
 
-![Course Test Configuration](../.gitbook/assets/course-test-config.png)
+<figure><img src="../.gitbook/assets/course-test-config.png" alt="Course Test Configuration"><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Teacher Tests" %}
@@ -128,7 +128,7 @@ From the Tests tab:
 | Delete   | Remove the test                          |
 | Assign   | Create an assignment from this test      |
 
-![Teacher Tests Dashboard](../.gitbook/assets/teacher-tests-dashboard.png)
+<figure><img src="../.gitbook/assets/teacher-tests-dashboard.png" alt="Teacher Tests Dashboard"><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Assigned Tests" %}
@@ -203,7 +203,7 @@ Processing statuses:
 IDLE → PENDING → PROCESSING → COMPLETED / FAILED
 ```
 
-![Assignment Evaluation](../.gitbook/assets/assignment-evaluation.png)
+<figure><img src="../.gitbook/assets/assignment-evaluation.png" alt="Assignment Evaluation"><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Practice Tests" %}

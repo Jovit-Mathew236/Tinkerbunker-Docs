@@ -26,7 +26,7 @@ Only **Super Admins** can manage categories. This page and all category endpoint
 1. Navigate to **Categories** from the sidebar
 2. The category management page displays all existing categories
 
-![Category Management Page](../../.gitbook/assets/category-management.png)
+<figure><img src="../../.gitbook/assets/category-management.png" alt="Category Management Page"><figcaption></figcaption></figure>
 
 ---
 

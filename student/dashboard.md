@@ -2,7 +2,7 @@
 
 The **Student Dashboard** is your central hub on TinkerBunker. Once you log in, this is the first screen you see. It provides a quick snapshot of your learning journey, upcoming activities, and important updates.
 
-![Student Dashboard](../.gitbook/assets/student-dashboard.png)
+<figure><img src="../.gitbook/assets/student-dashboard.png" alt="Student Dashboard"><figcaption></figcaption></figure>
 
 ---
 
@@ -83,4 +83,4 @@ From the dashboard you can also perform common tasks quickly:
 2. **Start a Test** — Click an upcoming test to navigate to the test screen.
 3. **View Stats** — Click the **Stats** nav item or the stats summary widget on the dashboard.
 
-![Dashboard Quick Actions](../.gitbook/assets/student-dashboard-quick-actions.png)
+<figure><img src="../.gitbook/assets/student-dashboard-quick-actions.png" alt="Dashboard Quick Actions"><figcaption></figcaption></figure>

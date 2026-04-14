@@ -80,7 +80,7 @@ Super Admins manage the platform-wide pricing configuration:
 | Effective From         | When the pricing takes effect              |
 | Effective Until        | When the pricing expires (optional)        |
 
-![Global Pricing Configuration](../../.gitbook/assets/global-pricing.png)
+<figure><img src="../../.gitbook/assets/global-pricing.png" alt="Global Pricing Configuration"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Pricing changes apply to new billing cycles. Existing cycles retain their original pricing until renewal.

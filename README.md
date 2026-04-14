@@ -2,7 +2,7 @@
 
 TinkerBunker is a comprehensive EdTech platform designed for managing courses, classrooms, tests, and educational workflows across institutions. Whether you are a student looking to learn, a teacher managing classrooms, or an institute administrator overseeing operations, TinkerBunker provides the tools you need.
 
-![TinkerBunker Platform](.gitbook/assets/platform-banner.png)
+<figure><img src=".gitbook/assets/platform-banner.png" alt="TinkerBunker Platform"><figcaption></figcaption></figure>
 
 ---
 

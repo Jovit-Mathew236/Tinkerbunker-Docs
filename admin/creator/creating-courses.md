@@ -54,7 +54,7 @@ All newly created courses start in **Draft** status. They must be submitted for 
 
 4. Click **Create** to save the course in **Draft** status
 
-![Create Course Form](../../.gitbook/assets/create-course-form.png)
+<figure><img src="../../.gitbook/assets/create-course-form.png" alt="Create Course Form"><figcaption></figcaption></figure>
 
 ---
 
@@ -200,7 +200,7 @@ Once your course content is complete:
 3. Select **Submit for Review** (changes status from `draft` to `pending_review`)
 4. The course moves from the **Drafts** tab to the **Pending Review** tab
 
-![Submit for Review](../../.gitbook/assets/submit-for-review.png)
+<figure><img src="../../.gitbook/assets/submit-for-review.png" alt="Submit for Review"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 After submission, the course appears in the Admin Publisher's review queue. You can still view the course but cannot edit it until the review is complete.

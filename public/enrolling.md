@@ -34,7 +34,7 @@ No payment is required. You get full access to:
 - Progress tracking
 - Certificate upon completion
 
-![Free Course Enrollment](../.gitbook/assets/free-enrollment.png)
+<figure><img src="../.gitbook/assets/free-enrollment.png" alt="Free Course Enrollment"><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Paid Public Courses" %}

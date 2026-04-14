@@ -52,7 +52,7 @@ Permissions are stored as a JSONB `controls` field on the team member entity. Mu
 
 The team member receives an invitation to set up their account.
 
-![Add Team Member](../.gitbook/assets/add-team-member-sales.png)
+<figure><img src="../.gitbook/assets/add-team-member-sales.png" alt="Add Team Member"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Duplicate email detection is in place. If the email already exists in the system, you will receive an alert.

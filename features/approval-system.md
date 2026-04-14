@@ -81,7 +81,7 @@ When the institute admin rejects the request:
 3. Maximum of **5 application attempts** is enforced
 4. After 5 rejections, the user can no longer reapply
 
-![Rejection with Reason](../.gitbook/assets/pending-rejected.png)
+<figure><img src="../.gitbook/assets/pending-rejected.png" alt="Rejection with Reason"><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

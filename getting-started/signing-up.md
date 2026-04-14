@@ -24,7 +24,7 @@ Personal signup creates a standalone account not linked to any institute.
 5. A verification email is sent to the address you provided. Open the email and click the verification link or enter the OTP code.
 6. Once verified, you are redirected to the login page.
 
-![Personal Signup Form](../.gitbook/assets/personal-signup-form.png)
+<figure><img src="../.gitbook/assets/personal-signup-form.png" alt="Personal Signup Form"><figcaption><p>Personal signup form</p></figcaption></figure>
 
 {% hint style="info" %}
 After personal signup, your account has no role assigned by default. You will be prompted to select or request roles once you log in.
@@ -52,7 +52,7 @@ Institute signup links your account to a specific school or organization and ass
 7. A verification email is sent to your address. Verify your email using the link or OTP code.
 8. After verification, your account enters a **Pending Approval** state. The institute administrator must approve your request before you can access institute resources.
 
-![Institute Signup Form](../.gitbook/assets/institute-signup-form.png)
+<figure><img src="../.gitbook/assets/institute-signup-form.png" alt="Institute Signup Form"><figcaption><p>Institute signup form</p></figcaption></figure>
 
 {% hint style="warning" %}
 Institute signups require approval from the institute administrator. You will not have access to institute-specific classrooms, courses, or resources until your request is approved. You will receive a notification once your status changes.
@@ -76,7 +76,7 @@ You can also create an account using your Google account. This skips the email v
 5. If this is your first time, an account is created and you are redirected to the dashboard.
 6. If an account with that email already exists, you are logged into the existing account.
 
-![Google OAuth Button](../.gitbook/assets/google-oauth-button.png)
+<figure><img src="../.gitbook/assets/google-oauth-button.png" alt="Google OAuth Button"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Google OAuth can be used with both Personal and Institute signup flows. When using Google OAuth for Institute signup, you will still need to select your role and school after authentication.

@@ -9,7 +9,7 @@ The **Stats** section provides teachers with a comprehensive analytics dashboard
 1. Click **Stats** in the navigation bar.
 2. Your teacher statistics dashboard loads.
 
-![Teacher Stats Dashboard](../.gitbook/assets/teacher-stats.png)
+<figure><img src="../.gitbook/assets/teacher-stats.png" alt="Teacher Stats Dashboard"><figcaption></figcaption></figure>
 
 ---
 

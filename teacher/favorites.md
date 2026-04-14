@@ -21,7 +21,7 @@ Teachers can **favorite** courses on TinkerBunker to bookmark them for quick acc
 {% endtab %}
 {% endtabs %}
 
-![Favorite Course - Teacher](../.gitbook/assets/teacher-favorite-course.png)
+<figure><img src="../.gitbook/assets/teacher-favorite-course.png" alt="Favorite Course - Teacher"><figcaption></figcaption></figure>
 
 ---
 

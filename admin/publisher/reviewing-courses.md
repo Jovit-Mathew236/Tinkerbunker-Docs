@@ -66,7 +66,7 @@ Publisher reviews course content
 | Media            | Banner, thumbnail, video quality                 |
 | Settings         | Visibility (public/private), pricing             |
 
-![Course Review View](../../.gitbook/assets/course-review-view.png)
+<figure><img src="../../.gitbook/assets/course-review-view.png" alt="Course Review View"><figcaption></figcaption></figure>
 
 ---
 

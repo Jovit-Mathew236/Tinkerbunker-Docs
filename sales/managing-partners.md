@@ -42,7 +42,7 @@ Requires `partner_operation` permission if you are a team member.
 
 4. Click **Create** to send an invitation
 
-![Create Partner Form](../.gitbook/assets/create-partner-form.png)
+<figure><img src="../.gitbook/assets/create-partner-form.png" alt="Create Partner Form"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 The partner email must be unique across the platform. Duplicate emails are detected and an alert is shown.

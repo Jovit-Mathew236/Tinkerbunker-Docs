@@ -2,7 +2,7 @@
 
 The **Teacher Dashboard** is your command center on TinkerBunker. It gives you an at-a-glance view of your classrooms, recent activity, and quick access to all teaching tools.
 
-![Teacher Dashboard](../.gitbook/assets/teacher-dashboard.png)
+<figure><img src="../.gitbook/assets/teacher-dashboard.png" alt="Teacher Dashboard"><figcaption></figcaption></figure>
 
 ---
 
@@ -83,4 +83,4 @@ From the dashboard, you can quickly:
 3. **Assign a Test** — Select a test and assign it to students or classrooms.
 4. **Start a Remote Quiz** — Launch a live quiz session.
 
-![Teacher Quick Actions](../.gitbook/assets/teacher-dashboard-quick-actions.png)
+<figure><img src="../.gitbook/assets/teacher-dashboard-quick-actions.png" alt="Teacher Quick Actions"><figcaption></figcaption></figure>

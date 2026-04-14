@@ -11,7 +11,7 @@ TinkerBunker offers a rich catalog of courses that you can browse, preview, and 
 3. Use the search bar to find courses by title or keyword.
 4. Browse through category filters to narrow down results.
 
-![Course Catalog](../.gitbook/assets/course-catalog.png)
+<figure><img src="../.gitbook/assets/course-catalog.png" alt="Course Catalog"><figcaption></figcaption></figure>
 
 ---
 
@@ -41,7 +41,7 @@ A course can be both **Public** and **Paid** — it is visible to everyone but r
 {% endtab %}
 
 {% tab title="Screenshot" %}
-![Free Enrollment](../.gitbook/assets/enroll-free-course.png)
+<figure><img src="../.gitbook/assets/enroll-free-course.png" alt="Free Enrollment"><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

@@ -51,7 +51,7 @@ A green verification badge with the following details:
 | Completion Date     | Date the course was completed       |
 | Certificate UUID    | Unique identifier for reference     |
 
-![Valid Certificate Verification](../.gitbook/assets/certificate-verified.png)
+<figure><img src="../.gitbook/assets/certificate-verified.png" alt="Valid Certificate Verification"><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Invalid Certificate" %}
