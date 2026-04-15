@@ -10,7 +10,7 @@
 4. Add students to the classroom.
 5. Link courses for the class.
 
-<figure><img src=".gitbook/assets/institute-create-classroom.png" alt="Create Classroom"><figcaption></figcaption></figure>
+![Create Classroom](../.gitbook/assets/institute-create-classroom.png)
 
 ---
 

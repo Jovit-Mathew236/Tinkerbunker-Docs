@@ -25,7 +25,7 @@ A live, interactive quiz session run in the classroom using physical remote devi
 4. Students answer each question using their remotes.
 5. View live responses on your screen.
 
-<figure><img src=".gitbook/assets/remote-quiz-live.png" alt="Remote Quiz Live"><figcaption></figcaption></figure>
+![Remote Quiz Live](../.gitbook/assets/remote-quiz-live.png)
 
 {% hint style="info" %}
 Make sure all remotes are paired with the receiver before starting.

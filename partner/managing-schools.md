@@ -11,7 +11,7 @@
 
 The institute admin receives an email to join TinkerBunker under your partner account.
 
-<figure><img src=".gitbook/assets/partner-school-list.png" alt="Partner Schools"><figcaption></figcaption></figure>
+![Partner Schools](../.gitbook/assets/partner-school-list.png)
 
 ---
 

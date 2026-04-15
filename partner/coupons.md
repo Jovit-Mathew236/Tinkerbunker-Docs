@@ -14,7 +14,7 @@ Create discount codes for schools under your partner account.
 4. Configure usage limits and expiry date.
 5. Save the coupon.
 
-<figure><img src=".gitbook/assets/partner-create-coupon.png" alt="Create Coupon"><figcaption></figcaption></figure>
+![Create Coupon](../.gitbook/assets/partner-create-coupon.png)
 
 ---
 

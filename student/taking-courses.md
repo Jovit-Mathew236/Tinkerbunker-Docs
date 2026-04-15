@@ -22,7 +22,7 @@ Some chapters may include an embedded test at the end.
 - Each page you finish is automatically tracked.
 - Pick up where you left off from your dashboard.
 
-<figure><img src=".gitbook/assets/course-chapter-view.png" alt="Course Content"><figcaption></figcaption></figure>
+![Course Content](../.gitbook/assets/course-chapter-view.png)
 
 {% hint style="info" %}
 You can revisit any completed page at any time.

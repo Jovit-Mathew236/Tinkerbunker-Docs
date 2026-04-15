@@ -10,7 +10,7 @@
 
 You'll be redirected to your dashboard.
 
-<figure><img src=".gitbook/assets/login-page.png" alt="Login Page"><figcaption></figcaption></figure>
+![Login Page](../.gitbook/assets/login-page.png)
 
 ---
 

@@ -12,7 +12,7 @@
 | **Growth** | How your performance has changed over time |
 | **Leaderboard** | Your ranking compared to other students |
 
-<figure><img src=".gitbook/assets/student-stats.png" alt="Student Stats"><figcaption></figcaption></figure>
+![Student Stats](../.gitbook/assets/student-stats.png)
 
 ---
 

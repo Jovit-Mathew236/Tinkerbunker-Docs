@@ -9,7 +9,7 @@
 3. Enter a name and configure the details.
 4. Add students and link courses.
 
-<figure><img src=".gitbook/assets/create-classroom.png" alt="Create Classroom"><figcaption></figcaption></figure>
+![Create Classroom](../.gitbook/assets/create-classroom.png)
 
 ---
 

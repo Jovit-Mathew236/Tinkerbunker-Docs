@@ -2,7 +2,7 @@
 
 The teacher dashboard is your home screen after logging in.
 
-<figure><img src=".gitbook/assets/teacher-dashboard.png" alt="Teacher Dashboard"><figcaption></figcaption></figure>
+![Teacher Dashboard](../.gitbook/assets/teacher-dashboard.png)
 
 ---
 

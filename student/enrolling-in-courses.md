@@ -10,7 +10,7 @@
 
 The course will appear in **My Courses** on your dashboard.
 
-<figure><img src=".gitbook/assets/course-catalog.png" alt="Course Catalog"><figcaption></figcaption></figure>
+![Course Catalog](../.gitbook/assets/course-catalog.png)
 
 ---
 

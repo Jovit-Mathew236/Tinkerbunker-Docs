@@ -19,7 +19,7 @@
 3. Select or type your answer.
 4. Click **Submit** when you are done.
 
-<figure><img src=".gitbook/assets/test-screen.png" alt="Test Screen"><figcaption></figcaption></figure>
+![Test Screen](../.gitbook/assets/test-screen.png)
 
 ---
 

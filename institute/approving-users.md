@@ -13,7 +13,7 @@ When students or teachers sign up and select your institute, their request comes
 3. Their request appears in your **pending requests** queue.
 4. You review and either **approve** or **reject** the request.
 
-<figure><img src=".gitbook/assets/institute-pending-requests.png" alt="Pending Requests"><figcaption></figcaption></figure>
+![Pending Requests](../.gitbook/assets/institute-pending-requests.png)
 
 ---
 

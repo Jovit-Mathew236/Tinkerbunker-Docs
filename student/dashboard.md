@@ -2,7 +2,7 @@
 
 This is the first screen you see after logging in.
 
-<figure><img src=".gitbook/assets/student-dashboard.png" alt="Student Dashboard"><figcaption></figcaption></figure>
+![Student Dashboard](../.gitbook/assets/student-dashboard.png)
 
 ---
 

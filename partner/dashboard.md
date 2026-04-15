@@ -2,7 +2,7 @@
 
 The partner dashboard gives you an overview of the schools and operations you manage.
 
-<figure><img src=".gitbook/assets/partner-dashboard-overview.png" alt="Partner Dashboard"><figcaption></figcaption></figure>
+![Partner Dashboard](../.gitbook/assets/partner-dashboard-overview.png)
 
 ---
 
