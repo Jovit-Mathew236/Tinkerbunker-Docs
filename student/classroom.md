@@ -10,7 +10,7 @@ Your classroom groups you with your classmates and teacher.
 | **Classmates** | Other students in your class |
 | **Courses** | Courses linked to your classroom |
 
-<figure><img src="../.gitbook/assets/student-classroom.png" alt="Student Classroom"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/student-classroom.png" alt="Student Classroom"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Your classroom is assigned by your institute. You cannot change it yourself.

@@ -8,7 +8,7 @@
 2. A certificate is generated automatically.
 3. Download it as a PDF from your dashboard.
 
-<figure><img src="../.gitbook/assets/certificate-download.png" alt="Certificate Download"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/certificate-download.png" alt="Certificate Download"><figcaption></figcaption></figure>
 
 ---
 

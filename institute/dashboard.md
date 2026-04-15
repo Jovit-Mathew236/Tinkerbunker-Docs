@@ -2,7 +2,7 @@
 
 The institute dashboard gives you an overview of your school's activity.
 
-<figure><img src="../.gitbook/assets/institute-dashboard-overview.png" alt="Institute Dashboard"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/institute-dashboard-overview.png" alt="Institute Dashboard"><figcaption></figcaption></figure>
 
 ---
 

@@ -18,7 +18,7 @@
 | **Classroom Operation** | Create and manage classrooms |
 | **Course Assign Operation** | Assign courses to classrooms |
 
-<figure><img src="../.gitbook/assets/institute-add-team-member.png" alt="Add Team Member"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/institute-add-team-member.png" alt="Add Team Member"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Team members inherit a limited version of your institute role based on their permissions.

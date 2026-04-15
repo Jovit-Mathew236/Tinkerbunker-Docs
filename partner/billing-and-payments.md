@@ -10,7 +10,7 @@ Your billing status appears as a banner at the top of your dashboard.
 | **Invoiced** | A new invoice has been generated |
 | **Overdue** | Payment is past due |
 
-<figure><img src="../.gitbook/assets/partner-billing-banner.png" alt="Billing Banner"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/partner-billing-banner.png" alt="Billing Banner"><figcaption></figcaption></figure>
 
 ---
 

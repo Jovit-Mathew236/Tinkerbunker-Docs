@@ -21,7 +21,7 @@
 | **Submitted** | Ready for your review |
 | **Evaluated** | You have graded it |
 
-<figure><img src="../.gitbook/assets/assignment-tracking.png" alt="Assignment Tracking"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/assignment-tracking.png" alt="Assignment Tracking"><figcaption></figcaption></figure>
 
 ---
 

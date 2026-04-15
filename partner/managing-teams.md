@@ -21,7 +21,7 @@
 | **Coupon Operation** | Create and manage coupons |
 | **Price Operation** | Set pricing for schools |
 
-<figure><img src="../.gitbook/assets/partner-add-team-member.png" alt="Add Team Member"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/partner-add-team-member.png" alt="Add Team Member"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Team members get a scoped version of your partner role based on the permissions you assign.

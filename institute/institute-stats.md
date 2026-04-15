@@ -10,7 +10,7 @@ Click **Stats** in the navigation bar to view performance data across your insti
 | **Course Adoption** | How many students are enrolled per course |
 | **Classroom Activity** | Engagement levels across classrooms |
 
-<figure><img src="../.gitbook/assets/institute-stats-overview.png" alt="Institute Stats"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/institute-stats-overview.png" alt="Institute Stats"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Stats update automatically as students complete courses and tests.

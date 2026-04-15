@@ -15,7 +15,7 @@ Creates a standalone account not linked to any school.
 4. Verify your email using the link or code sent to your inbox.
 5. You're in.
 
-<figure><img src="../.gitbook/assets/personal-signup-form.png" alt="Personal Signup"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/personal-signup-form.png" alt="Personal Signup"><figcaption></figcaption></figure>
 
 {% endtab %}
 {% tab title="Institute Signup" %}
@@ -31,7 +31,7 @@ Links your account to a school and assigns you a role.
 7. Verify your email.
 8. Wait for your institute admin to approve your request.
 
-<figure><img src="../.gitbook/assets/institute-signup-form.png" alt="Institute Signup"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/institute-signup-form.png" alt="Institute Signup"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Institute signups require approval. You won't have full access until your admin approves you.

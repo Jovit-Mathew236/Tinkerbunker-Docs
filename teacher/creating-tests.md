@@ -10,7 +10,7 @@
 4. Add questions one by one.
 5. Save the test.
 
-<figure><img src="../.gitbook/assets/create-test.png" alt="Create Test"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/create-test.png" alt="Create Test"><figcaption></figcaption></figure>
 
 ---
 
